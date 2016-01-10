@@ -1,7 +1,7 @@
 /*
 Author : Suresh
 Git hub helloworld class
-* comment by suresh  this file i have added from master
+* should add your favorite color.
 */
 
 class test{
